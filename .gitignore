@@ -46,3 +46,6 @@ test-results/
 playwright-report/
 dist/
 build/
+
+# Optional local Chrome test configuration
+playwright.local.config.js
